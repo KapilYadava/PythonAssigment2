@@ -1,4 +1,4 @@
-from Mathnew import Arithmetic
+from MathNew import Arithmetic
 
 
 class Mymath:
